@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RandomFilm</string>
+    <string name="next">Next film</string>
+    <string name="reset">Reset</string>
+    <string-array name="films">
+        <item>Mortal Engines</item>
+        <item>The Hunger Games</item>
+        <item>Bridge To Terabithia</item>
+        <item>Alice Through the Looking Glass</item>
+        <item>Suicide Squad</item>
+        <item>The Fast and the Furious</item>
+        <item>Shazam!</item>
+        <item>Detective Pikachu</item>
+        <item>Abigail</item>
+        <item>Ready Player One</item>
+    </string-array>
+</resources>
